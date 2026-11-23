@@ -1,0 +1,19 @@
+INVITO GIULIA & MARCO — ANTEPRIMA WHATSAPP
+
+CONTENUTO
+- index.html: invito interattivo con metadati per l'anteprima WhatsApp
+- copertina.jpg: immagine della prima pagina usata nell'anteprima
+
+COME PUBBLICARLO (esempio con Netlify Drop)
+1. Apri https://app.netlify.com/drop da un computer e accedi/registrati se richiesto.
+2. Estrai questa cartella dallo ZIP e trascina la cartella invito-whatsapp (quella che contiene index.html e copertina.jpg) nell'area di caricamento.
+3. Il servizio assegna un indirizzo pubblico al sito. Copia l'indirizzo, ad esempio https://nome-casuale.netlify.app.
+4. Apri index.html con un editor di testo e sostituisci TUTTE le occorrenze di https://URL-PUBBLICO con il tuo indirizzo reale, senza barra finale. Esempio: https://nome-casuale.netlify.app
+   Così og:image diventa https://nome-casuale.netlify.app/copertina.jpg e og:url https://nome-casuale.netlify.app/.
+5. Salva index.html e carica di nuovo la cartella aggiornata su Netlify, seguendo l'opzione di aggiornamento/ripubblicazione del sito.
+6. Invia su WhatsApp il solo indirizzo pubblico del sito, non il file HTML e non il link al file su Drive.
+
+IMPORTANTE
+- L'anteprima richiede che la pagina e copertina.jpg siano pubbliche e raggiungibili senza login.
+- WhatsApp può memorizzare temporaneamente le anteprime. Se non compare subito, attendi e prova in una nuova chat; verifica anche che il link della copertina si apra direttamente nel browser.
+- L'anteprima può variare tra dispositivi e WhatsApp non garantisce sempre la visualizzazione dell'immagine.
